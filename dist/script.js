@@ -1,8 +1,8 @@
-import * as THREE from 'https://threejsfundamentals.org/threejs/resources/threejs/r132/build/three.module.js';
-import {OrbitControls} from 'https://threejsfundamentals.org/threejs/resources/threejs/r132/examples/jsm/controls/OrbitControls.js';
+
+import * as THREE from 'https://cdn.skypack.dev/three';
+import { OrbitControls } from 'https://cdn.skypack.dev/three/examples/jsm/controls/OrbitControls.js';
 import * as dat from 'https://cdn.skypack.dev/dat.gui';
 
-console.log(OrbitControls);
 
 /**
  * Base
